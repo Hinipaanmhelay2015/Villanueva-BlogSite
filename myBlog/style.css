@@ -1,0 +1,33 @@
+body {
+	background: #1E90FF;
+	margin: 0;
+	font-family: Lucida Calligraphy;
+}
+
+
+
+h1, h2, h3 { color:black}
+
+h1 {
+	font-family:Lucida Calligraphy ;
+	font-size:40px;
+	margin: 0;
+	text-align:center;
+}
+h2 {
+	font-size:28px;
+	margin: 0;
+	text-align:left;
+}
+h3 {
+	font-size:26px;
+	margin: 0;
+	text-align:left;
+}
+p {
+	
+	font-size: 18px;
+	color: black;
+	text-align:left-indent;
+}
+
